@@ -14,7 +14,7 @@ Overall, 2017 was a better performing year for these 12 stocks. In 2017, 11 out 
 ![2017 Return](/2017.png)
 
 2018:
-![2018 Return](/2018.png)
+![2018 Return](/Users/adamschwartz/Desktop/Bootcamp/stock-analysis/Resources/2018.png)
 
 ##Summary
 
