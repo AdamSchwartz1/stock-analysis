@@ -9,9 +9,10 @@ The purpose of this project was to analyze stock data and gather trading volumes
 ## Results
 
 Overall, 2017 was a better performing year for these 12 stocks. In 2017, 11 out of the 12 stocks produced a positive return while only 2 of the 12 had positive returns in 2018. The average stock return for the 12 stocks in 2017 was 67.3% and the average return in 2018 was -8.5%. While the volumes were similar, 2017 was a much more successfull year based on the given data. I have included the analysis for both 2017 and 2018 below.
-![2017 Return](/2017.png)
+<img width="230" alt="2017" src="https://user-images.githubusercontent.com/90946252/135699574-8035beae-a92c-4be9-8291-0232433776e1.png">
 
-![2018 Return](/2018.png)
+<img width="236" alt="2018" src="https://user-images.githubusercontent.com/90946252/135699590-5e023bc8-fcc9-463a-8c72-266bc7065787.png">
+
 
 By refactoring the code, I was able to cut down on the run time. The original times to run the script was .85 seconds for both 2017 and 2018. After refactoring the code, the run times were .19 and .21 seconds for 2017 and 2018 respectively.
 
